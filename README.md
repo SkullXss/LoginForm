@@ -129,4 +129,4 @@ Você pode personalizar os valores predefinidos no código JavaScript para corre
 ```
 Certifique-se de que os IDs usados no JavaScript ("E-Mail" e "password") correspondam aos IDs dos campos de entrada em seu HTML para que o código funcione conforme o esperado.
 ## Autor
-Este formulário de login foi criado por Skull Dev(https://github.com/SkullXss)
+Este formulário de login foi criado por [Skull Dev](https://github.com/SkullXss).
