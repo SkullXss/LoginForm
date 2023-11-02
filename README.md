@@ -57,6 +57,61 @@ html
 </body>
 </html>
 ```
+Css
+```
+body {
+    background-image: url("https://e0.pxfuel.com/wallpapers/885/731/desktop-wallpaper-ultra-iphone-xr-my-site-ilustracao-de-paisagem-arte-da-paisagem-paisagem-desenho.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.login-form {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 2px solid black;
+    border-radius: 20px;
+    width: 500px;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.8);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+
+.created-by {
+    color: #777;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+input[type="text"],
+input[type="password"],
+button {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+```
 1.Inclua o CSS e o JavaScript correspondentes no seu projeto.
 2.Personalize o formulário de acordo com as necessidades do seu projeto.
 ## Lembrar de Mim
